@@ -49,3 +49,6 @@ const printFlyOverTimes = function(flyOverTimes) {
   }
 };
  
+module.exports = {
+  printFlyOverTimes
+}
